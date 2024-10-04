@@ -3,6 +3,8 @@
 We are building the future of secure, decentralized identity solutions for Web3. 
 Our mission is to develop innovative protocols and applications that ensure privacy, security, and verifiable identity without compromising user anonymity.
 
+![panther](https://github.com/user-attachments/assets/937632ec-b436-4b03-87af-34bcec90965e)
+
 > Overview & Key Repositories
 
 The Felidae Protocol is centered on a groundbreaking Web3 identity onboarding and verification process. Using oracles, Zero Knowledge Proof (ZKP), and decentralized identifiers (DIDs), we enable secure and anonymous access to decentralized applications (dApps). Our goal is to ensure that users can authenticate without sacrificing privacy, while allowing seamless interactions in the Web3 ecosystem.
