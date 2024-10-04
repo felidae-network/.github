@@ -9,6 +9,8 @@ Our mission is to develop innovative protocols and applications that ensure priv
 
 The Felidae Protocol is centered on a groundbreaking Web3 identity onboarding and verification process. Using oracles, Zero Knowledge Proof (ZKP), and decentralized identifiers (DIDs), we enable secure and anonymous access to decentralized applications (dApps). Our goal is to ensure that users can authenticate without sacrificing privacy, while allowing seamless interactions in the Web3 ecosystem.
 
+Decentralized Identity Verification Self-Sovereign Identity (SSI): Users control their own identity data and can share it with platforms as needed. Oracles can verify claims (e.g., dob, age, citizenship) against trusted sources without storing sensitive data on-chain.
+
 > Felidae Node (Substrate Framework)
 
 This repository contains the core implementation of our consensus protocol for decentralized identity creation and oracle-driven validation. It leverages Proof of Value & Oracle Consensus (PoVoc) to generate decentralized identifiers (DIDs) through a trusted network of oracles, while also managing the reputation of each oracle.
